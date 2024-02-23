@@ -6,12 +6,11 @@ from config import BOT_USERNAME
 start_txt = """**
 ✦ ʜᴇʏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !
 
-✦ ɪ ᴀᴍ ๛ɴ ʏ ᴋ ᴀ ᴀ ༗
+✦ ɪ ᴀᴍ lund lele repo lega
 
 ✦ ᴛʜɪs ɪs ɴʏᴋᴀᴀ ᴍᴜsɪᴄ ʙᴏᴛ ᴏғғɪᴄɪᴀʟ ʀᴇᴘᴏ.
 
-✦ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ๛ɴ ʏ ᴋ ᴀ ᴀ ༗ ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.
-**"""
+✦ ɪғ ʏᴏᴜ ᴡᴀɴᴛ teri maa ki chut laude 🌚🖕**"""
 
 
 
@@ -23,8 +22,8 @@ async def start(_, msg):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/anujkumarroy/ROYMUSIC"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/dragons_society"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/chacha_vhidhayak"),
           ],
     ]
     
